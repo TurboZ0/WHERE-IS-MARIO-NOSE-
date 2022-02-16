@@ -1,0 +1,55 @@
+.header {
+    font-size: 22;
+    font-family: ALGERIAN;
+    width: 100%;
+    text-align: left;
+    color: springgreen;
+    
+}
+
+.header h1 {
+    display: inline;
+    margin-left: 11px;
+}
+
+.header button {
+    float: right;
+    border-radius: 20px;
+}
+
+#footer {
+    bottom: 0;
+    height: 45px;
+    width: 100%;
+    color: greenyellow;
+    background-color: darkcyan;
+    text-align: center;
+    font-size: 39px;
+    font-family: ALGERIAN;
+    position: fixed;
+    box-shadow: 6px 6px 35px green;
+}
+
+.play {
+    font-size: 25px;
+    border-radius: 20px;
+    color: khaki;
+    font-family: ALGERIAN;
+}
+.movement {
+    width: 45%;
+    display: inline-block;
+}
+.modal-dialog {
+    width: 90%;
+}
+#mario_hd{
+    width: 100% ;
+}
+
+video {
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
